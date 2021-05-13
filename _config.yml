@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Ari Boyarsky"
   avatar           : "bio-photo.jpg"
-  bio              : "Ph.D. Student at Columbia University"
+  bio              : "Ph.D. Student <br /> Columbia University"
   location         : # "Location"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
