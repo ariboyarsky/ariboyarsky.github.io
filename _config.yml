@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Ari Boyarsky"
   avatar           : "bio-photo.jpg"
-  bio              : "Ph.D. Student"
+  bio              : "Ph.D. Student at Columbia University"
   location         : # "Location"
-  employer         : Columbia University
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3BzGOVUAAAAJ&hl=en"
   email            : "a.boyarsky@columbia.edu"
