@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Ari Boyarsky"
   avatar           : "bio-photo.jpg"
-  bio              : "Ph.D. Student"
+  bio              : "Ph.D. Student [Columbia University]("https://www.columbia.edu/")"
   location         : # "Location"
-  employer         : <a href="https://www.columbia.edu/">Columbia University</a>
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3BzGOVUAAAAJ&hl=en"
-  email            :
+  email            : "a.boyarsky@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
