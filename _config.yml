@@ -86,7 +86,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Ph.D. Student"
   location         : # "Location"
-  employer         : [Columbia University](https://www.columbia.edu/)
+  employer         :  <a href="https://www.columbia.edu/">Columbia University</a>
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3BzGOVUAAAAJ&hl=en"
   email            :
