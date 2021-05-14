@@ -11,4 +11,8 @@ main:
     
   - title: "CV"
     url: /files/Boyarsky_CV.pdf
+    
+  - title: "Misc."
+    url: /misc/    
+
 
