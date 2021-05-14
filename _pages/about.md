@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Home - Ari Boyarsky"
+excerpt: "Ari Boyarsky is a Ph.D. student at Columbia University"
 author_profile: true
 redirect_from: 
   - /about/
