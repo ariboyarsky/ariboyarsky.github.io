@@ -1,13 +1,11 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
 
-## Works in Progress
+### Works in Progress
 
 *A Sieve Approach to Nonparametric Estimation of Exchangeable Networks: Examples from International Trade.
 
