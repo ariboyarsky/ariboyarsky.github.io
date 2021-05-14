@@ -83,7 +83,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 250px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -222,6 +222,7 @@
   }
 
   a {
+    text-decoration: none !important;
     display: block;
     margin-bottom: 5px;
     padding-right: 5px;
@@ -229,7 +230,6 @@
     padding-bottom: 2px;
     color: inherit;
     font-size: $type-size-5;
-    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
