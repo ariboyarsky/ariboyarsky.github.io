@@ -16,6 +16,15 @@
   }
 }
 
+summary {
+   text-decoration: none;
+   font-size: 12px;
+   cursor: pointer;
+}
+summary:hover {
+   text-decoration: underline;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
