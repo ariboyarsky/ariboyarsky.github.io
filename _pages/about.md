@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/). Before starting at Columbia, I was a NBER Term Research Assistant and Postgraduate Visiting Fellow at [Yale University](https://yale.edu/)'s Economics Department. I recieved my M.A. in Compuatational Economics from the [University of Chicago](https://uchicago.edu/).
+I am an incoming Ph.D. student in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/). Before starting at Columbia, I was an NBER Term Research Assistant and Postgraduate Visiting Fellow at [Yale University](https://yale.edu/)'s Economics Department. I received my M.A. in Computational Economics from the [University of Chicago](https://uchicago.edu/).
 
 My research interests lie at the intersection of statistical inference and decision-making. I am particularly interested in developing robust nonparametric methodologies for causal inference. I am especially concerned with the application of these methods to settings in which standard assumptions fail, such as in models of networks.
 
