@@ -40,7 +40,7 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    //font-size: $type-size-6;
     line-height: 1.5;
   }
 
@@ -124,7 +124,7 @@
 .author__bio {
   margin: 0;
   text-decoration: none;
-  font-size: 12px !important;
+  font-size: 16px !important;
 
   @include breakpoint($large) {
     margin-top: 10px;
