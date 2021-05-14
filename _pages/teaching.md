@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## University of Chicago
 
-#### ECON 21410: Computational Methods in Economics
+### ECON 21410: Computational Methods in Economics
 
 Teaching Assistant (Spring 2019)
 
