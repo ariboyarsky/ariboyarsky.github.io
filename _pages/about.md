@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/). I received my M.A. from the [University of Chicago](https://uchicago.edu/) where I studied economics and mathematics. Before starting at Columbia, I was an NBER Term Research Assistant and Postgraduate Visiting Fellow at [Yale University](https://yale.edu/)'s Economics Department.
+I am a Ph.D. student in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/). I received my M.A. from the [University of Chicago](https://uchicago.edu/) where I studied economics and mathematics. Before starting at Columbia, I was an NBER Term Research Assistant and Postgraduate Visiting Fellow at [Yale University](https://yale.edu/)'s Economics Department.
 
 My research interests lie broadly at the intersection of statistical inference and decision-making. I am particularly interested in nonparametric inference with a view towards causal identification in nonstandard settings. To this end, my recent work considers the estimation of infinite-dimensional parameters in graphical models.
 
