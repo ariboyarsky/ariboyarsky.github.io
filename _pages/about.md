@@ -10,9 +10,11 @@ redirect_from:
 
 I am a Ph.D. student in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/). 
 
-My research interests lie broadly at the intersection of statistical inference and decision-making. I am particularly interested in nonparametric inference in nonstandard settings and its application to problems of casual inference. More broadly, I am interested in questions related to statistical learning theory, empirical proccesses, and stochastic optimization. I am also working on more applied problems in offline decision-making and firm dynamics. 
+My research interests lie broadly at the intersection of theoretical statistics and decision-making. In particular, I am interested in studying inference problems that arise in non-standard settings and developing tools that allow for reliable causal inference. To this end, I am very interested in the application of tools from statistical learning theory, empirical processes, and stochastic optimization to decision-making.
 
-Prior to coming to Columbia, I spent 2 years as a visiting postgraduate research fellow at [Yale University](https://yale.edu/). I previously recieved my M.A. in 2019 from the [University of Chicago](https://uchicago.edu/) where I studied mathematics and economics. 
+I currently have ongoing projects studying the estimation of infinite-dimensional parameters in network models, offline policy evaluation under interference, and firm decisions in models of economic networks.
+
+I previously received my M.A. in 2019 from the [University of Chicago](https://uchicago.edu/) where I studied mathematics and economics. Prior to my Ph.D., I also spent two years as a visiting postgraduate research fellow at [Yale University](https://yale.edu/).
 
 Please feel free to reach out via email at [a.boyarsky@columbia.edu](mailto:a.boyarsky@columbia.edu).
 
