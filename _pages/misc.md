@@ -19,4 +19,4 @@ Many of these documents are works in progress. The latest LaTeX/LyX code and PDF
 <ul><li><a href="https://ariboyarsky.com/files/Group_Theory_Notes.pdf">Finite Groups</a></li></ul>
 
 ### Microeconomic Theory
-<ul><li><a href="https://github.com/ariboyarsky/Economics/blob/master/Notes/Game%20Theory%20Notes/intro.pdf">Intro to Game Theory</a> (based on Price Thoery II lectures by Roger Myerson at UChicago)</li><li><a href="https://github.com/ariboyarsky/Economics/blob/master/Notes/Brief%20Notes/Social%20Choice/arrow_social_choice.pdf">Social Choice Theory</a> (based on Price Thoery II lectures by Philip Reny at UChicago)</li></ul>
+<ul><li><a href="https://github.com/ariboyarsky/Economics/blob/master/Notes/Game%20Theory%20Notes/intro.pdf">Intro to Game Theory</a> (based on Price Thoery II lectures by Prof. Roger Myerson at UChicago)</li><li><a href="https://github.com/ariboyarsky/Economics/blob/master/Notes/Brief%20Notes/Social%20Choice/arrow_social_choice.pdf">Social Choice Theory</a> (based on Price Thoery II lectures by Prof. Philip Reny at UChicago)</li></ul>
