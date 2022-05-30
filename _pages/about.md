@@ -14,7 +14,7 @@ My research interests lie broadly at the intersection of theoretical statistics 
 
 I am currently working on projects that study the estimation of infinite-dimensional parameters in network models, offline policy evaluation under interference, and firm decisions in models of economic networks.
 
-I  graduated from the [University of Chicago](https://uchicago.edu/) in 2019 where I studied mathematics and economics. Prior to my Ph.D., I also spent two years as a postgraduate research fellow at [Yale University](https://yale.edu/).
+I  graduated from the [University of Chicago](https://uchicago.edu/) in 2019 where I studied mathematics and economics. Prior to starting my Ph.D., I also spent two years as a postgraduate research fellow at [Yale University](https://yale.edu/).
 
 Please feel free to reach out via email at [a.boyarsky@columbia.edu](mailto:a.boyarsky@columbia.edu).
 
