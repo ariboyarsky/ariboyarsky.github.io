@@ -4,7 +4,6 @@ title: "Teaching"
 author_profile: true
 ---
 
----
 ## Columbia University
 
 ### B6100: Managerial Statistics (MBA)
