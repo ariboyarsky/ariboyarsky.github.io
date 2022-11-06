@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/), where I am fortunate to be advised by [Prof. Hongseok Namkoong]{https://hsnamkoong.github.io/}.
+I am a Ph.D. student in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/), where I am fortunate to be advised by [Prof. Hongseok Namkoong](https://hsnamkoong.github.io/).
 
 My research interests lie broadly at the intersection of theoretical statistics and decision-making. In particular, I am interested in studying statistical inference problems that arise in non-standard settings and developing tools that allow for reliable estimation of causal effects.
 
