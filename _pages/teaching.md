@@ -6,6 +6,14 @@ author_profile: true
 
 ## Columbia University
 
+### B9119: Foundations of Stochastic Modeling (PhD)
+
+Teaching Assistant (Spring 2023)
+
+### B6101: Business Analytics II (MS)
+
+Teaching Assistant (Spring 2023)
+
 ### B6100: Managerial Statistics (MBA)
 
 Teaching Assistant (Fall 2022)
