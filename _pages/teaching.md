@@ -4,6 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
+---
 ## Columbia University
 
 ### B9119: Foundations of Stochastic Modeling (PhD)
