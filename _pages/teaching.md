@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ---
-## Columbia University
+### <u>Columbia University</u>
 
 ### B9119: Foundations of Stochastic Modeling (PhD)
 Teaching Assistant (Spring 2023)
@@ -16,7 +16,7 @@ Teaching Assistant (Spring 2023)
 ### B6100: Managerial Statistics (MBA)
 Teaching Assistant (Fall 2022)
 
-## University of Chicago
+### <u>University of Chicago</u>
 
 ### ECON 21410: Computational Methods in Economics (Undergraduate)
 Teaching Assistant (Spring 2019)<br/>
