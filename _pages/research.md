@@ -26,6 +26,7 @@ A large body of research in the social and physical sciences is concerned with t
 
 <h1>Recent Talks</h1>
 
+---
 [CoDE@MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/), Cambridge, Massachusetts, October 2022
 
 [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/), Indianapolis, Indiana, October 2022
