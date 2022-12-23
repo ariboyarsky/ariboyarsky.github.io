@@ -10,7 +10,7 @@ author_profile: true
 **B9119: Foundations of Stochastic Modeling (PhD)**<br/>
 Teaching Assistant (Spring 2023)
 
-**B8101: Business Analytics II (MS)**<br/>
+**B8101: Business Analytics II (MBA/MS)**<br/>
 Teaching Assistant (Spring 2023)
 
 **B6100: Managerial Statistics (MBA)**<br/>
