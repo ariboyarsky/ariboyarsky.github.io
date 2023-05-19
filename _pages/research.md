@@ -32,15 +32,3 @@ Many studies document various effects of trade shocks on firm and industry-level
 
 <!--  <details><summary>Abstract</summary>
 A large body of research in the social and physical sciences is concerned with the estimation of causal effects in observational studies. These analyses often employ propensity score matching methods to recover these parameters. Unfortunately, this methodology relies on strong assumptions on the support of the propensity score that are not always satisfied. This paper attempts to provide a rigorous analysis and assessment of the propensity score overlap condition. To this end, I introduce the support vector machine (SVM) as a powerful statistical approach to estimate propensity scores and assess the overlap assumption. I use simulated data to show the comparative advantage of this methodology relative to previous methods especially in the case where there is a nonlinear determination of treatment. Finally, I illustrate how to apply this methodology using the commonly studied LaLonde (1986) experimental and non-experimental data sets.</details> -->
-
-
-
-<h1>Recent Talks</h1>
-
----
-[24th ACM Conference on Economics and Computation (EC'23)](https://ec23.sigecom.org/), London, UK, July 2023
-
-[Conference on Digital Experimentation at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/), Cambridge, Massachusetts, October 2022
-
-[INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/), Indianapolis, Indiana, October 2022
-
