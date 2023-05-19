@@ -7,6 +7,9 @@ author_profile: true
 ---
 ### <span style="font-size:1.3em"><u>Columbia University</u></span>
 
+**B5100: Managerial Statistics (EMBA)**<br/>
+Teaching Assistant (Summer 2023)
+
 **B9119: Foundations of Stochastic Modeling (PhD)**<br/>
 Teaching Assistant (Spring 2023)
 
