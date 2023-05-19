@@ -10,7 +10,7 @@ author_profile: true
   <br />
   **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Jean Pouget-Abadie](https://jean.pouget-abadie.com/)
   <br />
-  Preliminary version forthcoming in *Proceedings of the 24th ACM Conference on Economics and Computation (EC'23)*.
+  Conference version forthcoming in *Proceedings of the 24th ACM Conference on Economics and Computation (EC'23)*.
   <br />
   [[arXiv](https://arxiv.org/abs/2305.10728)]
 
