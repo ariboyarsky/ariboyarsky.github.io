@@ -1,16 +1,36 @@
 ---
-title: "Page Not Found"
-excerpt: "Page not found. Your pixels are in another canvas."
+layout: archive
+title: "Sitemap"
+permalink: /sitemap/
+author_profile: false
 sitemap: false
-permalink: /404.html
 ---
 
-Sorry, but the page you were trying to view does not exist.
+A list of all the pages found on the site. An [XML version]({{ "sitemap.xml" | relative_url }}) is available as well.
 
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
+<h2>Pages</h2>
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- <h2>Posts</h2>
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for collection in site.collections %}
+{% unless collection.output == false or collection.label == "posts" %}
+  {% capture label %}{{ collection.label }}{% endcapture %}
+  {% if label != written_label %}
+  <h2>{{ label }}</h2>
+  {% capture written_label %}{{ label }}{% endcapture %}
+  {% endif %}
+{% endunless %}
+{% for post in collection.docs %}
+  {% unless collection.output == false or collection.label == "posts" %}
+  {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+{% endfor %} -->
