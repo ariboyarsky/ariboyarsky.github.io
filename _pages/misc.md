@@ -2,6 +2,7 @@
 permalink: /misc/
 title: "Miscellaneous"
 author_profile: true
+sitemap: false
 redirect_from: /miscellaneous/
 ---
 
