@@ -1,27 +1,32 @@
 var addressPoints = [
   [
-    "New York, NY, USA",
-    40.7128,
-    74.0060
+    "Columbia University, New York, NY, USA",
+    40.8079488,
+    -73.9617973577571
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Imperial College London, London, UK",
+    51.4987997,
+    -0.1748772
+  ],
+  [
+    "King's College London, London, UK",
+    51.5114864,
+    -0.115997
   ],
   [
     "Indianapolis, IN, USA",
-    39.7684,
-    86.1581
+    39.768403,
+    -86.158068
   ],
   [
-    "Cambridge, MA, USA",
-    42.3601,
-    71.0942
+    "MIT, Cambridge, MA, USA",
+    42.360091,
+    -71.09416
   ],
   [
     "Phoenix, AZ, USA",
-    33.4484,
-    112.0740
+    33.569785,
+    -112.06449
   ]
 ];
