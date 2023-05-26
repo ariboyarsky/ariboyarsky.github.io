@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About me"
+title: "Ari Boyarsky"
 excerpt: "Ari Boyarsky is a Ph.D. Student in Operations Research at Columbia University."
+Description: "I am a Ph.D. student in the Decision, Risk, and Operations division of Columbia Business School where I am fortunate to be advised by Prof. Hongseok Namkoong."
 author_profile: true
 redirect_from: 
   - /about/
