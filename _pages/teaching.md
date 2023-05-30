@@ -7,16 +7,16 @@ author_profile: true
 ---
 ### <span style="font-size:1.3em"><u>Columbia University</u></span>
 
-**B5100: Managerial Statistics (EMBA)**<br/>
+**B5100: Managerial Statistics (EMBA Core)**<br/>
 Teaching Assistant (Summer 2023)
 
-**B9119: Foundations of Stochastic Modeling (PhD)**<br/>
+**B9119: Foundations of Stochastic Modeling (PhD Core)**<br/>
 Teaching Assistant (Spring 2023)
 
-**B8103: Business Analytics II (MBA/MS)**<br/>
+**B8103: Business Analytics II (MBA/MS Elective)**<br/>
 Teaching Assistant (Spring 2023)
 
-**B6100: Managerial Statistics (MBA)**<br/>
+**B6100: Managerial Statistics (MBA Core)**<br/>
 Teaching Assistant (Fall 2022)
 
 ### <span style="font-size:1.3em"><u>University of Chicago</u></span>
