@@ -13,8 +13,8 @@ I am a third year PhD candidate in the [Decision, Risk, and Operations](https://
 
 My research interests lie broadly at the intersection of theoretical statistics and decision-making. In particular, I am interested in studying statistical inference problems that arise in non-standard settings and developing tools that allow for reliable estimation of causal effects.
 
-I graduated from the [University of Chicago](https://uchicago.edu/) in 2019 where I studied mathematics and economics. Prior to starting my Ph.D., I also spent two years as a postgraduate research fellow at [Yale University](https://yale.edu/).
+I graduated from the [University of Chicago](https://uchicago.edu/) in 2019 where I studied mathematics and economics. Prior to starting my PhD, I also spent two years as a postgraduate research fellow at [Yale University](https://yale.edu/).
 
-Please feel free to reach out via email at [a.boyarsky@columbia.edu](mailto:a.boyarsky@columbia.edu).
+please don't hesitate to contact me via email at [a.boyarsky@columbia.edu](mailto:a.boyarsky@columbia.edu).
 
 
