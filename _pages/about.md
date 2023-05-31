@@ -15,6 +15,6 @@ My research interests lie broadly at the intersection of theoretical statistics 
 
 I graduated from the [University of Chicago](https://uchicago.edu/) in 2019 where I studied mathematics and economics. Prior to starting my PhD, I also spent two years as a postgraduate research fellow at [Yale University](https://yale.edu/).
 
-please don't hesitate to contact me via email at [a.boyarsky@columbia.edu](mailto:a.boyarsky@columbia.edu).
+Please don't hesitate to contact me via email at [a.boyarsky@columbia.edu](mailto:a.boyarsky@columbia.edu).
 
 
