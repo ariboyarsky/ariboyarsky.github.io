@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Publications and Preprints
 
-* [Modeling Interference Using Experiment Roll-out](https://arxiv.org/abs/2305.10728)
+* [Modeling Interference Using Experiment Roll-out](https://dl.acm.org/doi/10.1145/3580507.3597757)
   <br />
   **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Jean Pouget-Abadie](https://jean.pouget-abadie.com/)
   <br />
