@@ -12,7 +12,7 @@ author_profile: true
   <br />
   Journal version under review.
   <br />
-  [Conference version](https://dl.acm.org/doi/10.1145/3580507.3597757) in *Proceedings of the 24th ACM Conference on Economics and Computation (EC'23)*.
+  [Conference version](https://dl.acm.org/doi/10.1145/3580507.3597757) appeared in *Proceedings of the 24th ACM Conference on Economics and Computation (EC'23)*.
   <br />
   [[arXiv](https://arxiv.org/abs/2305.10728)]
   
@@ -23,7 +23,7 @@ author_profile: true
 <br />
    **Ari Boyarsky**  
      <!-- <details><summary>Abstract</summary>
-This paper considers the estimation and inference of nonparametric parameters of interest in a network model using the sieve extremum estimator. The main result is a central limit theorem for sieve extremum estimates that enables standard methods for inference of nonparametric parameters. The results rely on an assumption of exchangeability on the data generating process which in turn can be used to establish a conditional dependency graph to model the network interdependence. This varies from previous work on sieve extremum estimation that has only considered i.i.d. and weakly dependent data. The results in this paper justify the application of sieve estimation procedures to a wide range of network models. To illustrate this flexibility, I show how this method can be used to estimate infinite and finite-dimensional parameters in two models of international trade. I also show the equivalence of this setting to a generalization of psi-mixing developed for use in network models.</details> -->
+This paper considers the estimation and inference of nonparametric parameters of interest in a network model using the sieve extremum estimator. The main result is a central limit theorem for sieve extremum estimates that enables standard methods for inference of nonparametric parameters. The results rely on an assumption of exchangeability on the data-generating process which in turn can be used to establish a conditional dependency graph to model the network interdependence. This varies from previous work on sieve extremum estimation that has only considered i.i.d. and weakly dependent data. The results in this paper justify the application of sieve estimation procedures to a wide range of network models. To illustrate this flexibility, I show how this method can be used to estimate infinite and finite-dimensional parameters in two models of international trade. I also show the equivalence of this setting to a generalization of psi-mixing developed for use in network models.</details> -->
 
 <!-- * Adjusting Innovation: Firm-Level Responses to Trade Shocks.  
    Ari Boyarsky and [Suleyman Gozen](https://www.suleymangozen.com/home)  
