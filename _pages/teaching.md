@@ -17,7 +17,7 @@ Teaching Assistant (Summer 2023)
 Teaching Assistant (Spring 2023)
 
 **B8103: Business Analytics II (MBA/MS Elective)**<br/>
-Teaching Assistant (Spring 2023)
+Teaching Assistant (Spring 2023, Spring 2024)
 
 ### <span style="font-size:1.3em"><u>University of Chicago</u></span>
 
