@@ -7,6 +7,9 @@ author_profile: true
 ---
 ### <span style="font-size:1.3em"><u>Columbia University</u></span>
 
+**B8103: Foundations of AI for Business (MS Elective)**<br />
+Teaching Assistant (Spring 2024)
+
 **B6100: Managerial Statistics (MBA Core)**<br/>
 Teaching Assistant (Fall 2022, Fall 2023)
 
@@ -16,8 +19,8 @@ Teaching Assistant (Summer 2023)
 **B9119: Foundations of Stochastic Modeling (PhD Core)**<br/>
 Teaching Assistant (Spring 2023)
 
-**B8103: Business Analytics II (MBA/MS Elective)**<br/>
-Teaching Assistant (Spring 2023, Spring 2024)
+**B8103: Business Analytics II (MBA Elective)**<br/>
+Teaching Assistant (Spring 2023)
 
 ### <span style="font-size:1.3em"><u>University of Chicago</u></span>
 
