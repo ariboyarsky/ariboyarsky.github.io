@@ -7,6 +7,9 @@ author_profile: true
 <!-- ### Upcoming Talks -->
 
 
+### Upcoming Talks
+
+[American Causal Inference Counference](https://sci-info.org/annual-meeting/), Seattle, WA, USA May 2024
 
 ### Previous Talks
 
