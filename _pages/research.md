@@ -21,7 +21,7 @@ author_profile: true
 
 * Assesing External Validity in Randomized Experiments under the Effect Ordering Principle
   <br />
-   **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Naoki Egami](https://[jean.pouget-abadie](https://naokiegami.com/)
+   **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Naoki Egami](https://naokiegami.com/)
   <br />
   [Deming Doctoral Fellowship Winner](https://business.columbia.edu/demingcenter/research/doctoral-fellows)
   <br />
