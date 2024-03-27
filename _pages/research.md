@@ -23,7 +23,7 @@ author_profile: true
   <br />
    **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Naoki Egami](https://naokiegami.com/)
   <br />
-  [Deming Center Doctoral Fellowship](https://business.columbia.edu/demingcenter/research/doctoral-fellows).
+  Awarded [Deming Center Doctoral Fellowship](https://business.columbia.edu/demingcenter/research/doctoral-fellows).
   <br />
 
 * A Sieve Approach to Nonparametric Estimation of Exchangeable Networks: Examples from International Trade
