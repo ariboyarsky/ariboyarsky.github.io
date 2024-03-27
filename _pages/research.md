@@ -20,11 +20,11 @@ author_profile: true
 ### Works in Progress
 
 * Assesing External Validity in Randomized Experiments under the Effect Ordering Principle
-<br />
+  <br />
    **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Naoki Egami](https://[jean.pouget-abadie](https://naokiegami.com/)
-<br />
+  <br />
   [Deming Doctoral Fellowship Winner](https://business.columbia.edu/demingcenter/research/doctoral-fellows)
-<br />
+  <br />
 
 * A Sieve Approach to Nonparametric Estimation of Exchangeable Networks: Examples from International Trade
 <br />
