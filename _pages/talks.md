@@ -21,7 +21,7 @@ author_profile: true
 <br />
 [2023 INFORMS Revenue Management and Pricing (RMP) Conference](https://meetings.informs.org/wordpress/indianapolis2022/), London, UK, July 2023
 <br />
-[Conference on Digital Experimentation at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/), Cambridge, MA, USA, October 2022
+[2022 Conference on Digital Experimentation at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/), Cambridge, MA, USA, October 2022
 <br />
 [2022 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/), Indianapolis, IN, USA, October 2022
 
