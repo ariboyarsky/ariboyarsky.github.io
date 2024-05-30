@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD candidate in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/) and [2023 - 2024 Deming Doctoral Fellow](https://business.columbia.edu/demingcenter/research/doctoral-fellows). I am fortunate to be advised by Professor [Hongseok Namkoong](https://hsnamkoong.github.io/).
+I am a fourth year PhD candidate in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/) where I am fortunate to be advised by Professor [Hongseok Namkoong](https://hsnamkoong.github.io/). I was also a [2023 - 2024 Deming Doctoral Fellow](https://business.columbia.edu/demingcenter/research/doctoral-fellows).
 
 My research interests lie broadly at the intersection of statistical inference, machine learning, and decision-making. In particular, I am interested in studying statistical inference problems that arise in unconventional settings and developing tools that allow for reliable estimation of causal effects. Recently, I have also worked on experimental design and non-parametric statistics.
 
