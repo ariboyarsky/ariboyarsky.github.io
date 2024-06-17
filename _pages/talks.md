@@ -13,7 +13,7 @@ author_profile: true
 
 ### Previous Talks
 
-[American Causal Inference Counference](https://sci-info.org/annual-meeting/), Seattle, WA, USA, May 2024
+[2024 American Causal Inference Counference](https://sci-info.org/annual-meeting/), Seattle, WA, USA, May 2024
 <br />
 [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/), Phoenix, AZ, USA, October 2023
 <br />
