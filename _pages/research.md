@@ -14,7 +14,7 @@ author_profile: true
   <br />
   Journal version under review.
   <br />
-  [[arXiv](https://arxiv.org/abs/2305.10728)] [[EC Talk]](https://youtu.be/hLNfUphDyec?si=nJGQITRvdkfAdzOL)
+  [[arXiv](https://arxiv.org/abs/2305.10728)] [[Video]](https://youtu.be/hLNfUphDyec?si=nJGQITRvdkfAdzOL)
   
 
 ### Works in Progress
