@@ -11,7 +11,7 @@ author_profile: true
 Teaching Assistant (Spring 2024)
 
 **B6100: Managerial Statistics (MBA Core)**<br/>
-Teaching Assistant (Fall 2022, Fall 2023)
+Teaching Assistant (Fall 2022, Fall 2023, Fall 2024)
 
 **B5100: Managerial Statistics (EMBA Core)**<br/>
 Teaching Assistant (Summer 2023)
