@@ -19,6 +19,8 @@ author_profile: true
 <br />
 [24th ACM Conference on Economics and Computation (EC'23)](https://ec23.sigecom.org/), London, UK, July 2023
 <br />
+[[Talk recording]](https://youtu.be/hLNfUphDyec?si=nJGQITRvdkfAdzOL)
+<br />
 [2023 INFORMS Revenue Management and Pricing (RMP) Conference](https://meetings.informs.org/wordpress/indianapolis2022/), London, UK, July 2023
 <br />
 [2022 Conference on Digital Experimentation at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/), Cambridge, MA, USA, October 2022
