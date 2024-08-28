@@ -8,8 +8,9 @@ author_profile: true
 
 ### Talk Videos
 
-*[**Modeling Interference Using Experiment Roll-out**](https://youtu.be/hLNfUphDyec?si=9f9ODIs5sfharOpn)
-[24th ACM Conference on Economics and Computation (EC'23)](https://ec23.sigecom.org/), London, UK, July 2023
+* [**Modeling Interference Using Experiment Roll-out**](https://youtu.be/hLNfUphDyec?si=9f9ODIs5sfharOpn)
+<br />
+  + [24th ACM Conference on Economics and Computation (EC'23)](https://ec23.sigecom.org/), London, UK, July 2023
 
 ### Upcoming Talks
 
