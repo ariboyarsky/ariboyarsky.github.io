@@ -6,6 +6,10 @@ author_profile: true
 ---
 <!-- ### Upcoming Talks -->
 
+### Talk Videos
+
+*[**Modeling Interference Using Experiment Roll-out**](https://youtu.be/hLNfUphDyec?si=9f9ODIs5sfharOpn)
+[24th ACM Conference on Economics and Computation (EC'23)](https://ec23.sigecom.org/), London, UK, July 2023
 
 ### Upcoming Talks
 
@@ -18,8 +22,6 @@ author_profile: true
 [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/), Phoenix, AZ, USA, October 2023
 <br />
 [24th ACM Conference on Economics and Computation (EC'23)](https://ec23.sigecom.org/), London, UK, July 2023
-<br />
-[[Talk recording]](https://youtu.be/hLNfUphDyec?si=nJGQITRvdkfAdzOL)
 <br />
 [2023 INFORMS Revenue Management and Pricing (RMP) Conference](https://meetings.informs.org/wordpress/indianapolis2022/), London, UK, July 2023
 <br />
