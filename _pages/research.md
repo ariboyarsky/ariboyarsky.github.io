@@ -19,12 +19,14 @@ author_profile: true
 
 ### Works in Progress
 
-* Assesing External Validity in Randomized Experiments under the Effect Ordering Principle
+* A Sensitivity Framework for External Validity of A/B Tests
   <br />
    **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Naoki Egami](https://naokiegami.com/)
   <br />
   Winner, [Deming Center Doctoral Fellowship](https://business.columbia.edu/demingcenter/research/doctoral-fellows), 2023.
   <br />
+  Oral presentation at [ACIC, 2024](https://sci-info.org/wp-content/uploads/2024/05/2024-SCI-Abstract-Book.pdf).
+
 
 * A Sieve Approach to Nonparametric Estimation of Exchangeable Networks: Examples from International Trade
 <br />
