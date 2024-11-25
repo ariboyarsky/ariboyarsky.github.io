@@ -10,12 +10,11 @@ author_profile: true
 
 [**Modeling Interference Using Experiment Roll-out**](https://youtu.be/hLNfUphDyec?si=9f9ODIs5sfharOpn), 24th ACM Conference on Economics and Computation (EC'23), July 2023
 
-### Upcoming Talks
+% ### Upcoming Talks
 
+### Talks
 [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle, WA, USA, October 2024
-
-### Previous Talks
-
+<br />
 [2024 American Causal Inference Counference](https://sci-info.org/annual-meeting/), Seattle, WA, USA, May 2024
 <br />
 [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/), Phoenix, AZ, USA, October 2023
