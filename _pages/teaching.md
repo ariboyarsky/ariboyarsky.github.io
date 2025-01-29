@@ -7,7 +7,7 @@ author_profile: true
 ---
 ### <span style="font-size:1.3em"><u>Columbia University</u></span>
 
-**B8114: Applied Regression Analysis
+**B8114: Applied Regression Analysis**<br />
 Teaching Assistant (Spring 2025)
 
 **B8103: Foundations of AI for Business (MS Elective)**<br />
