@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ari Boyarsky, PhD"
+title: "Ari Boyarsky"
 excerpt: "Ari Boyarsky is a quantitative researcher at Cubist Systematic Strategies. He holds a PhD in Operations Research from Columbia University."
 description: "Ari Boyarsky is a quantitative researcher at Cubist Systematic Strategies. He holds a PhD in Operations Research from Columbia University."
 author_profile: true
