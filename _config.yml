@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ari Boyarsky"
+  name             : "Ari Boyarsky, PhD"
   avatar           : "bio-photo.png"
-  bio              : "Quantitative Researcher <br /> PhD in Operations Research"
+  bio              : "Quantitative Researcher"
   location         : # "Location"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
