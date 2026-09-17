@@ -1,15 +1,15 @@
 ---
 permalink: /
 title: "Ari Boyarsky"
-excerpt: "Ari Boyarsky is a PhD Student in Operations Research at the Graduate School of Business at Columbia University where he is advised by Prof. Hongseok Namkoong."
-description: "I am a PhD student in the Decision, Risk, and Operations division of Columbia Business School where I am fortunate to be advised by Prof. Hongseok Namkoong."
+excerpt: "Ari Boyarsky is a quantitative researcher at Cubist Systematic Strategies. He holds a PhD in Operations Research from Columbia University."
+description: "Ari Boyarsky is a quantitative researcher at Cubist Systematic Strategies. He holds a PhD in Operations Research from Columbia University."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fifth year PhD candidate in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/) where I am fortunate to be advised by Professor [Hongseok Namkoong](https://hsnamkoong.github.io/). I was also a [2023 - 2024 Deming Doctoral Fellow](https://business.columbia.edu/demingcenter/research/doctoral-fellows). This past summer I worked as a Quantitative Research Intern at [Cubist Systematic Strategies](https://point72.com/cubist/).
+I am a fourth year PhD candidate in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division of [Columbia Business School](https://home.gsb.columbia.edu/) where I am fortunate to be advised by Professor [Hongseok Namkoong](https://hsnamkoong.github.io/). I was also a [2023 - 2024 Deming Doctoral Fellow](https://business.columbia.edu/demingcenter/research/doctoral-fellows).
 
 My research interests lie broadly at the intersection of statistical inference, machine learning, and decision-making. In particular, I am interested in studying statistical inference problems that arise in unconventional settings and developing tools that allow for reliable estimation of causal effects. Recently, I have also worked on experimental design and non-parametric statistics.
 
