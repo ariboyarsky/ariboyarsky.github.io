@@ -17,8 +17,8 @@ author_profile: true
   Journal version under review. -->
   <br />
   <div class="resource-links" aria-label="Paper resources">
+    <a class="resource-link" href="https://dl.acm.org/doi/10.1145/3580507.3597757">Conference Paper</a>
     <a class="resource-link" href="https://arxiv.org/abs/2305.10728">arXiv</a>
-    <a class="resource-link" href="https://dl.acm.org/doi/10.1145/3580507.3597757">Conference</a>
     <a class="resource-link" href="https://youtu.be/hLNfUphDyec?si=nJGQITRvdkfAdzOL">Video</a>
   </div>
   

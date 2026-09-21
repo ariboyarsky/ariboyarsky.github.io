@@ -95,16 +95,57 @@
 
 /* Give the home page a larger introduction photo without changing other pages. */
 .home-page .author__avatar {
-  width: 240px;
+  display: block !important;
+  width: 320px !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
   height: auto;
+  margin-bottom: 1rem;
 
   img {
-    width: 100%;
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto;
   }
 
   @include breakpoint($large) {
-    width: 260px;
+    width: 100%;
   }
+}
+
+/* Reserve a wider home-page column for the larger photo. */
+@include breakpoint($large) {
+  #main.home-page {
+    display: flex;
+    align-items: flex-start;
+    gap: 2.5rem;
+  }
+
+  #main.home-page > .sidebar {
+    flex: 0 0 320px;
+    width: 320px;
+    float: none;
+    margin-right: 0;
+  }
+
+  #main.home-page > .page {
+    flex: 1 1 auto;
+    width: auto;
+    min-width: 0;
+    float: none;
+    margin-left: 1rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* Keep the enlarged home-page photo from sharing a row with its text. */
+.home-page .author__content,
+.home-page .author__urls-wrapper {
+  display: block !important;
+  width: 100% !important;
+  clear: both !important;
 }
 
 .author__content {

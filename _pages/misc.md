@@ -6,8 +6,8 @@ sitemap: false
 redirect_from: /miscellaneous/
 ---
 
----
-## Notes
+<!-- ---
+## Notes -->
 
 The following is a selection of notes that I have put together during my studies in economics, mathematics, and statistics. These notes do not constitute original contributions rather they serve as a reference and to provide an avenue for me to explore new topics. All errors are my own.
 
