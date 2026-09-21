@@ -93,6 +93,20 @@
   }
 }
 
+/* Give the home page a larger introduction photo without changing other pages. */
+.home-page .author__avatar {
+  width: 240px;
+  height: auto;
+
+  img {
+    width: 100%;
+  }
+
+  @include breakpoint($large) {
+    width: 260px;
+  }
+}
+
 .author__content {
   display: table-row;
   vertical-align: top;

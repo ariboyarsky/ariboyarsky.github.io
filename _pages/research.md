@@ -6,6 +6,7 @@ author_profile: true
 ---
 ### Publications and Preprints
 
+{: .research-list}
 * [Modeling Interference Using Experiment Roll-out](https://dl.acm.org/doi/10.1145/3580507.3597757)
   <br />
   **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Jean Pouget-Abadie](https://jean.pouget-abadie.com/)
@@ -15,11 +16,16 @@ author_profile: true
   <!-- <br />
   Journal version under review. -->
   <br />
-  [[arXiv](https://arxiv.org/abs/2305.10728)] [[Conference]](https://dl.acm.org/doi/10.1145/3580507.3597757) [[Video]](https://youtu.be/hLNfUphDyec?si=nJGQITRvdkfAdzOL)
+  <div class="resource-links" aria-label="Paper resources">
+    <a class="resource-link" href="https://arxiv.org/abs/2305.10728">arXiv</a>
+    <a class="resource-link" href="https://dl.acm.org/doi/10.1145/3580507.3597757">Conference</a>
+    <a class="resource-link" href="https://youtu.be/hLNfUphDyec?si=nJGQITRvdkfAdzOL">Video</a>
+  </div>
   
 
 ### Works in Progress
 
+{: .research-list}
 * A Sensitivity Framework for External Validity of A/B Tests
   <br />
    **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Naoki Egami](https://naokiegami.com/)

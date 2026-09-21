@@ -64,7 +64,8 @@ summary:hover {
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 1.08rem;
+    line-height: 1.65;
   }
 
   /* paragraph indents */
@@ -106,6 +107,22 @@ summary:hover {
 
   .small {
     font-size: $type-size-6;
+  }
+
+  .research-list {
+    margin-left: 0;
+    padding-left: 1em;
+    list-style: none;
+
+    > li {
+      margin-bottom: 1.75em;
+      padding-left: 1em;
+      border-left: 2px solid rgba($info-color, 0.3);
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
 
   /* blockquote citations */
