@@ -7,6 +7,18 @@ author_profile: true
 ### Publications and Preprints
 
 {: .research-list}
+* [A Sensitivity Framework for Assessing External Validity](https://arxiv.org/abs/2611.16242)
+  <br />
+  **Ari Boyarsky**, [Naoki Egami](https://naokiegami.com/), and [Hongseok Namkoong](https://hsnamkoong.github.io/)
+  <br />
+  Winner, [Deming Center Doctoral Fellowship](https://business.columbia.edu/demingcenter/research/doctoral-fellows), 2023.
+  <br />
+  Oral presentation at [ACIC, 2024](https://sci-info.org/wp-content/uploads/2024/05/2024-SCI-Abstract-Book.pdf).
+  <br />
+  <div class="resource-links" aria-label="Paper resources">
+    <a class="resource-link" href="https://arxiv.org/abs/2611.16242">arXiv</a>
+  </div>
+
 * [Modeling Interference Using Experiment Roll-out](https://dl.acm.org/doi/10.1145/3580507.3597757)
   <br />
   **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Jean Pouget-Abadie](https://jean.pouget-abadie.com/)
@@ -26,13 +38,9 @@ author_profile: true
 ### Works in Progress
 
 {: .research-list}
-* A Sensitivity Framework for External Validity of A/B Tests
+* Where to Go Next: Site Selection for External Validity via Sensitivity Analysis
   <br />
-   **Ari Boyarsky**, [Hongseok Namkoong](https://hsnamkoong.github.io/), and [Naoki Egami](https://naokiegami.com/)
-  <br />
-  Winner, [Deming Center Doctoral Fellowship](https://business.columbia.edu/demingcenter/research/doctoral-fellows), 2023.
-  <br />
-  Oral presentation at [ACIC, 2024](https://sci-info.org/wp-content/uploads/2024/05/2024-SCI-Abstract-Book.pdf).
+  **Ari Boyarsky**
 
 
 * A Sieve Approach to Nonparametric Estimation of Exchangeable Networks: Examples from International Trade
