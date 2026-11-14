@@ -1,0 +1,52 @@
+/* ==========================================================================
+   NEWS
+   Home page "Recent News" list, rendered by _includes/news.html.
+   ========================================================================== */
+
+.news {
+  margin-top: 2em;
+}
+
+.news__title {
+  margin-bottom: 0.75em;
+}
+
+.news__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.news__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  margin-bottom: 0.75em;
+  line-height: 1.5;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.news__date {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 5.5em;
+          flex: 0 0 5.5em;
+  margin-right: 1em;
+  color: mix(#000, $gray, 20%);
+  font-size: 0.9em;
+  font-weight: bold;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.news__text {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  min-width: 0;
+}

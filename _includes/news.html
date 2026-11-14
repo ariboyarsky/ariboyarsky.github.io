@@ -1,0 +1,16 @@
+{%- comment -%}
+  Recent news list for the home page. Items live in _data/news.yml.
+  Usage: include news.html, optionally with limit=N (default 5 items).
+  Kept free of blank and indented lines so kramdown treats it as one HTML block.
+{%- endcomment -%}
+{%- assign news_limit = include.limit | default: 5 -%}
+{%- if site.data.news and site.data.news.size > 0 -%}
+<section class="news" aria-labelledby="news-title">
+<h3 id="news-title" class="news__title">Recent News</h3>
+<ul class="news__list">
+{%- for item in site.data.news limit: news_limit -%}
+<li class="news__item"><span class="news__date">{{ item.date }}</span><span class="news__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
+{%- endfor -%}
+</ul>
+</section>
+{%- endif -%}

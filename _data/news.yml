@@ -1,0 +1,9 @@
+# News items shown on the home page, newest first.
+# `date` is displayed exactly as written. `text` is Markdown.
+# Only the first few items are shown (see the limit in _includes/news.html).
+
+- date: Nov 2026
+  text: >-
+    New working paper with Naoki Egami and Hongseok Namkoong,
+    **[A Sensitivity Framework for Assessing External Validity](https://arxiv.org/abs/2611.16242)**,
+    now available on arXiv.

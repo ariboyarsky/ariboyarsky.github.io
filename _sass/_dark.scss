@@ -1,0 +1,373 @@
+/* ==========================================================================
+   DARK MODE
+   Applied when <html data-theme="dark">. The attribute is set before first
+   paint by the script in _includes/head.html and flipped by the masthead
+   toggle (assets/js/theme-toggle.js).
+   ========================================================================== */
+
+$dark-background      : #1a1c20;
+$dark-surface         : #23262b;
+$dark-surface-hover   : #2d3137;
+$dark-text            : #d4d7db;
+$dark-text-muted      : #9ba1a6;
+$dark-text-strong     : #f1f3f5;
+$dark-border          : #34383e;
+$dark-border-strong   : #4a4f56;
+$dark-link            : #78b0ec;
+$dark-link-hover      : #a9cdf5;
+$dark-masthead-link   : #a3a9ae;
+
+
+/*
+   Theme toggle button (both modes)
+   ========================================================================== */
+
+.theme-toggle {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin: 0 0 0 0.75rem;
+  padding: 0;
+  color: $masthead-link-color;
+  background: transparent;
+  border: 1px solid $border-color;
+  border-radius: 50%;
+  cursor: pointer;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+    border-color: $light-gray;
+  }
+
+  &:focus {
+    outline: 2px solid $info-color;
+    outline-offset: 2px;
+  }
+
+  &:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  svg {
+    display: block;
+    width: 1.1rem;
+    height: 1.1rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .theme-toggle__sun {
+    display: none;
+  }
+}
+
+html[data-theme="dark"] .theme-toggle {
+  .theme-toggle__sun {
+    display: block;
+  }
+
+  .theme-toggle__moon {
+    display: none;
+  }
+}
+
+
+/*
+   Element defaults
+   :where() keeps these at element-level specificity so component rules
+   such as ".author__urls a { color: inherit }" still win.
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  background-color: $dark-background;
+
+  body {
+    color: $dark-text;
+    background-color: $dark-background;
+  }
+}
+
+:where(html[data-theme="dark"]) a {
+  color: $dark-link;
+}
+
+:where(html[data-theme="dark"]) a:hover {
+  color: $dark-link-hover;
+}
+
+html[data-theme="dark"] {
+
+  hr {
+    border-top-color: $dark-border;
+  }
+
+  p > code,
+  a > code,
+  li > code,
+  figcaption > code,
+  td > code {
+    background: $dark-surface;
+    border-color: $dark-border;
+    box-shadow: none;
+  }
+
+  figcaption a {
+    border-bottom-color: $dark-border-strong;
+
+    &:hover {
+      color: $dark-text-strong;
+      border-bottom-color: $dark-text-strong;
+    }
+  }
+
+  /* tables */
+
+  table,
+  td {
+    border-color: $dark-border-strong;
+  }
+
+  thead {
+    background-color: $dark-surface;
+    border-bottom-color: $dark-border-strong;
+  }
+
+  /* forms */
+
+  input,
+  textarea,
+  select {
+    color: $dark-text;
+    background-color: $dark-surface;
+    border-color: $dark-border-strong;
+  }
+
+
+  /*
+     Masthead and navigation
+     ======================================================================== */
+
+  .masthead {
+    border-bottom-color: $dark-border;
+  }
+
+  .greedy-nav {
+    background: $dark-background;
+
+    a {
+      color: $dark-masthead-link;
+
+      &:hover {
+        color: $dark-text-strong;
+      }
+    }
+
+    .hidden-links {
+      background: $dark-surface;
+      border-color: $dark-border;
+
+      &:before {
+        border-color: $dark-border transparent;
+      }
+
+      &:after {
+        border-color: $dark-surface transparent;
+      }
+
+      a:hover {
+        color: $dark-text-strong;
+        background: $dark-surface-hover;
+      }
+
+      li {
+        border-bottom-color: $dark-border;
+      }
+    }
+  }
+
+  .theme-toggle {
+    color: $dark-masthead-link;
+    border-color: $dark-border-strong;
+
+    &:hover {
+      color: $dark-text-strong;
+      border-color: $dark-text-muted;
+    }
+
+    &:focus {
+      outline-color: $dark-link;
+    }
+  }
+
+  .pagination li a,
+  .pagination--pager {
+    color: $dark-text-muted;
+    border-color: $dark-border-strong;
+  }
+
+  .nav__sub-title {
+    border-bottom-color: $dark-border;
+  }
+
+  .toc {
+    color: $dark-text-muted;
+    background-color: $dark-surface;
+    border-color: $dark-border;
+  }
+
+  .toc__menu a {
+    color: $dark-text-muted;
+    border-bottom-color: $dark-border;
+
+    &:hover {
+      color: $dark-text-strong;
+      background: $dark-surface-hover;
+    }
+  }
+
+
+  /*
+     Sidebar
+     ======================================================================== */
+
+  .author__urls {
+    background: $dark-surface;
+    border-color: $dark-border;
+
+    &:before {
+      border-color: $dark-border transparent;
+    }
+
+    &:after {
+      border-color: $dark-surface transparent;
+    }
+
+    @include breakpoint($large) {
+      background: transparent;
+    }
+  }
+
+  .btn--inverse {
+    color: $dark-text !important;
+    background-color: $dark-surface;
+    border-color: $dark-border-strong !important;
+
+    &:hover {
+      background-color: $dark-surface-hover;
+    }
+  }
+
+  .social-icons .fa,
+  .social-icons .fa-github,
+  .social-icons .fa-github-alt,
+  .social-icons .fa-github-square {
+    color: $dark-text-strong;
+  }
+
+
+  /*
+     Page content
+     ======================================================================== */
+
+  .page__content h2,
+  .archive__subtitle,
+  .feature__wrapper,
+  .comment:not(:last-child) {
+    border-bottom-color: $dark-border;
+  }
+
+  .page__share,
+  .page__related,
+  .page__comments-title,
+  .modal__actions {
+    border-top-color: $dark-border;
+  }
+
+  .page__taxonomy-item {
+    border-color: $dark-border-strong;
+  }
+
+  .page__comments-form {
+    background: $dark-surface;
+  }
+
+  .research-list > li {
+    border-left-color: rgba($dark-link, 0.35);
+  }
+
+  .resource-link {
+    color: $dark-link !important;
+    background-color: rgba($dark-link, 0.08);
+    border-color: rgba($dark-link, 0.45) !important;
+
+    &:hover,
+    &:focus {
+      color: $dark-background !important;
+      background-color: $dark-link;
+      border-color: $dark-link !important;
+    }
+  }
+
+  .well,
+  .modal {
+    background-color: $dark-surface;
+    border-color: $dark-border;
+  }
+
+  .show-modal:before {
+    background-color: rgba($dark-background, 0.85);
+  }
+
+  .notice,
+  .notice--primary,
+  .notice--info,
+  .notice--warning,
+  .notice--success,
+  .notice--danger {
+    color: $dark-text;
+    background-color: $dark-surface;
+  }
+
+  a.reversefootnote {
+    color: $dark-text-muted;
+  }
+
+  .news__date {
+    color: $dark-text-muted;
+  }
+
+
+  /*
+     Footer
+     ======================================================================== */
+
+  .page__footer {
+    color: $dark-text-muted;
+    background-color: $dark-surface;
+    border-top-color: $dark-border;
+
+    .fas,
+    .fab,
+    .far,
+    .fal {
+      color: $dark-text-muted;
+    }
+  }
+}
